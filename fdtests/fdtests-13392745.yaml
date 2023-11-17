@@ -11,4 +11,4 @@ workflow:
     - code: TEST_INSTANCE   
       value: ONPREMSOAP
     - code: ARGS
-      value: "-P EndPoint=fdtlt86.flexagon.azure.com:8000 -P Database=jdbc:oracle:thin:@172.16.0.04:1525/pflex5 -P Username=fd_admin -P Password=$LOCAL_FD_ADMIN_DB_PW"
+      value: "-P EndPoint=fdtlt86.flexagon.azure.com:8000 -P Database=jdbc:oracle:thin:@172.16.0.04:1525/pflex5 -P Username=fd_admin -P Password=welcome1"
