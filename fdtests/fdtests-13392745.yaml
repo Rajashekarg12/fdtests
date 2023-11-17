@@ -2,7 +2,7 @@
 testName: gitYamlSoapUI
 description: runs all the soapui tests in the fdtests folder.
 workflow:
-  name: SoapUI-runSoapUITestSuite
+  name: SoapUI-runSoapUILoadSuite
   inputs:
     # regex expression to match all xml files in fdtests folder of the execution
     - code: SOAPUI_PROJECT_FILE
